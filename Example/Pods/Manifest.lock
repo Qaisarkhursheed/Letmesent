@@ -1,0 +1,16 @@
+PODS:
+  - LetMeSentSDK (0.1.0)
+
+DEPENDENCIES:
+  - LetMeSentSDK (from `../`)
+
+EXTERNAL SOURCES:
+  LetMeSentSDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LetMeSentSDK: fb3461dc57c6adfc9a1f6c99f17093a3d19542d6
+
+PODFILE CHECKSUM: f226abbeb0e24263b37a5745de611584be1717d7
+
+COCOAPODS: 1.9.3

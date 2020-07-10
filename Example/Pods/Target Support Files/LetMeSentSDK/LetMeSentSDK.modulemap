@@ -1,0 +1,6 @@
+framework module LetMeSentSDK {
+  umbrella header "LetMeSentSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
