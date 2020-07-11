@@ -37,7 +37,7 @@ pod 'LetMeSentSDK'
 ```
 ## Author
 
-shozab14, shozabhiader14@gmail.com
+qaisar, qaisarkhursheed@hotmail.com
 
 ## License
 
